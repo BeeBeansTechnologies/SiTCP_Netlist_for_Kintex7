@@ -1,0 +1,42 @@
+SiTCP Library License Agreement
+
+2018, Jun 8
+
+BeeBeans Technologies Co., Ltd (hereinafter ”BBT”) grants a license to use the SiTCP Library (hereinafter “Library”), to you and any entity or individual you represented (collectively “you”), on the terms and conditions of this SiTCP Library License Agreement (hereinafter “Agreement”).
+By downloading the Library or copying the Library or using the Library, you accept all the terms and conditions of this Agreement. If you do not agree with any term or condition in this Agreement, do not download, use or copy the Library.
+
+1. Copyrights
+(1) Mr.Tomohisa Uchida reserves copyrights of the Library and BBT is granted sublicense. The copyrights of the Library are protected by applicable Japanese copyright lows, and international treaty.
+(2) The documentation, sample codes, and other materials that will download with the Library, are the intellectual property of BBT, and are protected by applicable Japanese copyright lows, and international treaty.
+(3) The copyrights providing with the Library and all the associated materials that belong to Mr.Tomohisa Uchida and BBT, are protected by applicable Japanese copyright lows, and international treaty.
+
+2. License Grant
+(1) BBT grants to you a non-exclusive license to use the Library and the associated materials for the agreed period indicated in Article 5, provided that you agree to the terms and conditions of the Agreement.
+(2) You are not allowed to change files in the Library, except *.v file described in the Verilog file.
+(3) You may copy the Library and all associated materials under terms of this agreement.
+
+3. Restrictions
+(1) You are not allowed to reverse engineer, decompile, or disassemble the Library.
+(2) Except as expressly authorized by this Agreement, you are not allowed to copy or change all or part of the Library.
+(3) You are not allowed to remove the copyright notation in the Library or other associated materials. The copyright notation and other notations should be copied with the Library.
+(4) BBT warrants you that the Library will perform substantially in accordance with the documentation, however it does not mean that the Library is error free, or will work properly on any given device.
+(5) BBT shall not be liable for any damages of hardware or data resulting from use of the Library.
+(6) BBT shall not be liable for any disputes (i.e. Intellectual Property disputes, Product Liability disputes), concerning the Library.
+(7) Other than those above, BBT shall not be liable for any direct or indirect damages or losses of any kind resulting from use of the Library.
+(8) From time to time BBT may deploy update of the Library, and inform you about the update. BBT in its sole discretion shall determine whether, when, and how to provide the information and the updated Library. Each update deemed to form the Library.
+
+4. No Warranty
+BBT accepts no responsibility regarding the Library use.
+
+5. Term
+The term of this Agreement shall commence on the date when you download the Library or start to use the Library, and shall continue until termination as provided in this Article 6.
+
+6. Termination
+(1) You may terminate this agreement any time, upon written notice to BBT.
+(2) If you breach your obligations under this Agreement, BBT may terminate this Agreement immediately without any notice.
+(3) If you breach your obligations under this Agreement, BBT may claim for damages caused by your breach.
+(4) Upon any termination of this Agreement, you are obliged to destroy all copies of the Library and all associated materials in your possession or control.
+
+7. General
+(1) This Agreement shall be governed by and construed in accordance with the laws of Japan without regard to principles of conflict of laws, and the parties hereto submit to the exclusive jurisdiction of Tokyo District Court in Japan with respect to all controversies arising from this Agreement.
+(2) This Agreement written and prepared in the Japanese Language. The Japanese text shall prevail in the interpretation.
