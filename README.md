@@ -2,7 +2,7 @@ Read this in other languages: [English](README.md), [日本語](README.ja.md)
 
 # SiTCP Netlist for Kintex7
 
-SiTCP Library (ngc file) for Xilinx Kintex 7.
+SiTCP Library (ngc file and EDIF file) for Xilinx Kintex7.
 
 
 ## What is SiTCP
@@ -32,3 +32,7 @@ Simple TCP/IP implemented on an FPGA (Field Programmable Gate Array) for the pur
 * SiTCP_RST modified.
 * Change of ACK transmission method.
 * MIF Initialization modified.
+
+2024-01-16 Ver.11.0
+* Added SiTCP_XC7K_32K_BBT_V110.edf
+* Added EDF_SiTCP.xdc

@@ -2,7 +2,7 @@ Read this in other languages: [English](README.md), [日本語](README.ja.md)
 
 # SiTCP Netlist for Kintex7
 
-Xilinx Kintex 7用のSiTCP Netlist File(ngc file)です。
+Xilinx Kintex7用のSiTCP Netlist File(ngc file および EDIF file)です。
 
 
 ## SiTCP とは
@@ -32,3 +32,7 @@ Xilinx Kintex 7用のSiTCP Netlist File(ngc file)です。
 * SiTCP_RSTのタイミングを変更しました（EEPROM設定値の転送完了まで延長）。
 * データ受信時のACK送信形式を変更しました。
 * MIF初期化機能を設定可能にしました。
+
+2024-01-16 Ver.11.0
+* SiTCP_XC7K_32K_BBT_V110.edfを追加
+* EDF_SiTCP.xdcを追加
