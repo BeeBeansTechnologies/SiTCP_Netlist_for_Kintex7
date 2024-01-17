@@ -33,6 +33,6 @@ Simple TCP/IP implemented on an FPGA (Field Programmable Gate Array) for the pur
 * Change of ACK transmission method.
 * MIF Initialization modified.
 
-2024-01-16 Ver.11.0
+2024-01-16 Ver.11.0-release2
 * Added SiTCP_XC7K_32K_BBT_V110.edf
 * Added EDF_SiTCP.xdc

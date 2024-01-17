@@ -33,6 +33,6 @@ Xilinx Kintex7用のSiTCP Netlist File(ngc file および EDIF file)です。
 * データ受信時のACK送信形式を変更しました。
 * MIF初期化機能を設定可能にしました。
 
-2024-01-16 Ver.11.0
-* SiTCP_XC7K_32K_BBT_V110.edfを追加
-* EDF_SiTCP.xdcを追加
+2024-01-16 Ver.11.0-release2
+* SiTCP_XC7K_32K_BBT_V110.edfを追加しました。
+* EDF_SiTCP.xdcを追加しました。
